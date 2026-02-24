@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2">
+  <classes>
+    <class id="UserRequest" _delta="must_exist">
+      <fields>
+        <field id="test_mode" xsi:type="AttributeEnum" _delta="define">
+          <values>
+            <value id="low">
+              <code>low</code>
+            </value>
+            <value id="fast">
+              <code>fast</code>
+            </value>
+          </values>
+          <sql>test_mode</sql>
+          <default_value>low</default_value>
+          <is_null_allowed>false</is_null_allowed>
+        </field>
+      </fields>
+      <presentation>
+        <details>
+          <items>
+            <item id="col:col2" _delta="must_exist">
+              <items>
+                <item id="fieldset:Ticket:Type" _delta="must_exist">
+                  <items>
+                    <item id="test_mode" _delta="define">
+                      <rank>35</rank>
+                    </item>
+                  </items>
+                </item>
+              </items>
+            </item>
+          </items>
+        </details>
+        <search>
+          <items>
+            <item id="test_mode" _delta="define">
+              <rank>145</rank>
+            </item>
+          </items>
+        </search>
+        <list>
+          <items>
+            <item id="test_mode" _delta="define">
+              <rank>85</rank>
+            </item>
+          </items>
+        </list>
+      </presentation>
+    </class>
+  </classes>
+</itop_design>
