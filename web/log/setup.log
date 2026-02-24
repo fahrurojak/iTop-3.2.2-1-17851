@@ -1,0 +1,39 @@
+2026-02-24 02:26:34 | Ok      |       | Info - CheckPHPVersion | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - php.ini file(s): 'C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.ini' | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - Temporary directory for files upload (C:\Users\USER\AppData\Local\Temp) is writable. | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - upload_max_filesize: 2G | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - post_max_size: 2G | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - max_file_uploads: 20 | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - memory_limit is 512M, ok. | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Info - session.save_path is: 'C:/laragon/tmp'. | SetupLog |||
+2026-02-24 02:26:34 | Warning |       | Missing optional PHP extension: apcu. Performances will be slightly degraded. | SetupLog |||
+2026-02-24 02:26:34 | Warning |       | Missing optional PHP extension: ldap. LDAP authentication will be disabled. | SetupLog |||
+2026-02-24 02:26:34 | Warning |       | post_max_size (2G) in php.ini should be strictly greater than upload_max_filesize (2G) otherwise you cannot upload files of the maximum size. | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | The current PHP Version (8.1.10) is greater than the minimum version required to run iTop, which is (8.1.0) | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | The temp directory is writable by the application. | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Required PHP extension(s): curl, dom, fileinfo, gd, hash, iconv, json, mbstring, mysqli, pcre, session, simplexml, soap, zip, zlib. | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Optional PHP extension(s): openssl. | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | Loaded php.ini files: C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.ini | SetupLog |||
+2026-02-24 02:26:34 | Ok      |       | The value for session.save_path (C:/laragon/tmp) is writable for the web server. | SetupLog |||
+2026-02-24 02:27:26 | Ok      |       | Info - CheckBackupPrerequisites | SetupLog |||
+2026-02-24 02:27:26 | Ok      |       | Info - PHP functions disabled:  | SetupLog |||
+2026-02-24 02:27:26 | Ok      |       | Info - mysqldump -V said: 'mysqldump' is not recognized as an internal or external command, | SetupLog |||
+2026-02-24 02:27:26 | Ok      |       | Info - mysqldump -V said: operable program or batch file. | SetupLog |||
+2026-02-24 02:27:28 | Info    |       | operation 'async_action', peak memory usage. 27937976 | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - CheckPHPVersion | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - php.ini file(s): 'C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.ini' | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - Temporary directory for files upload (C:\Users\USER\AppData\Local\Temp) is writable. | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - upload_max_filesize: 2G | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - post_max_size: 2G | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - max_file_uploads: 20 | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - memory_limit is 512M, ok. | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Info - session.save_path is: 'C:/laragon/tmp'. | SetupLog |||
+2026-02-24 02:27:30 | Warning |       | Missing optional PHP extension: apcu. Performances will be slightly degraded. | SetupLog |||
+2026-02-24 02:27:30 | Warning |       | Missing optional PHP extension: ldap. LDAP authentication will be disabled. | SetupLog |||
+2026-02-24 02:27:30 | Warning |       | post_max_size (2G) in php.ini should be strictly greater than upload_max_filesize (2G) otherwise you cannot upload files of the maximum size. | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | The current PHP Version (8.1.10) is greater than the minimum version required to run iTop, which is (8.1.0) | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | The temp directory is writable by the application. | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Required PHP extension(s): curl, dom, fileinfo, gd, hash, iconv, json, mbstring, mysqli, pcre, session, simplexml, soap, zip, zlib. | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Optional PHP extension(s): openssl. | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | Loaded php.ini files: C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.ini | SetupLog |||
+2026-02-24 02:27:30 | Ok      |       | The value for session.save_path (C:/laragon/tmp) is writable for the web server. | SetupLog |||

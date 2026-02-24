@@ -1,0 +1,30 @@
+<?php 
+// Interface: Combodo\iTop\Application\UI\Base\iUIBlockFactory
+// Excluded paths: /lib/,/node_modules/,/test/,/tests/,/vendor/
+return array (
+  0 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Input\\Select\\SelectUIBlockFactory',
+  1 => 'Combodo\\iTop\\Application\\UI\\Base\\Layout\\UIContentBlockUIBlockFactory',
+  2 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Title\\TitleUIBlockFactory',
+  3 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Alert\\AlertUIBlockFactory',
+  4 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\ButtonGroup\\ButtonGroupUIBlockFactory',
+  5 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Button\\ButtonUIBlockFactory',
+  6 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\CollapsibleSection\\CollapsibleSectionUIBlockFactory',
+  7 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\DataTable\\DataTableUIBlockFactory',
+  8 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\FieldBadge\\FieldBadgeUIBlockFactory',
+  9 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\FieldSet\\FieldSetUIBlockFactory',
+  10 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Field\\FieldUIBlockFactory',
+  11 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Form\\FormUIBlockFactory',
+  12 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Input\\FileSelect\\FileSelectUIBlockFactory',
+  13 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Input\\InputUIBlockFactory',
+  14 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Input\\Select\\SelectOptionUIBlockFactory',
+  15 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Input\\Set\\SetUIBlockFactory',
+  16 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Panel\\PanelUIBlockFactory',
+  17 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Spinner\\SpinnerUIBlockFactory',
+  18 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Template\\TemplateUIBlockFactory',
+  19 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Toolbar\\Separator\\ToolbarSeparatorUIBlockFactory',
+  20 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Toolbar\\ToolbarSpacer\\ToolbarSpacerUIBlockFactory',
+  21 => 'Combodo\\iTop\\Application\\UI\\Base\\Component\\Toolbar\\ToolbarUIBlockFactory',
+  22 => 'Combodo\\iTop\\Application\\UI\\Base\\Layout\\MultiColumn\\Column\\ColumnUIBlockFactory',
+  23 => 'Combodo\\iTop\\Application\\UI\\Base\\Layout\\MultiColumn\\MultiColumnUIBlockFactory',
+  24 => 'Combodo\\iTop\\Application\\UI\\Links\\Set\\LinkSetUIBlockFactory',
+);
